@@ -15,7 +15,7 @@ learn new skills . I am extremely driven, with a clear goal to succeed. I have a
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aArvind-Developer&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Arvind-Developer&column=7"/>
   </a>
 </div>
 
