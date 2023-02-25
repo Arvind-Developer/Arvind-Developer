@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Arvind-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/arvind-k-35046a114/
+[Linkedin Badge](https://img.shields.io/badge/-Arvind-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/arvind-k-35046a114/
 
 
 I'm
@@ -59,6 +59,7 @@ Languages and Tools:
     </a>
 
 ![](https://activity-graph.herokuapp.com/graph?username=Arvind-Devleloper&theme=react-dark&area=true)
+
 <!--
 **Arvind-Devleloper/Arvind-Devleloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -76,4 +77,4 @@ Here are some ideas to get you started:
 -->
 
 
--->
+
