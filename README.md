@@ -1,5 +1,5 @@
 ### Hi Developers 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Arvind?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arvind-k-35046a114/)](https://www.linkedin.com/in/arvind-k-35046a114/)
+[![Linkedin Badge](https://img.shields.io/badge/-Arvind-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arvind-k-35046a114/)](https://www.linkedin.com/in/arvind-k-35046a114/)
 
 
 
