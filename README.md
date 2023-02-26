@@ -3,10 +3,10 @@
 
 
 
-I'm
-Full Stack Developer
+I'm 
+Full Stack Developer.
 The crossover between design and programming has always been of interest to me, I am always energetic and eager to 
-learn new skills . I am extremely driven, with a clear goal to succeed. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Java),front-end development (React, HTML5, CSS3, Javascript,), database(MongoDB,Mysql)
+learn new skills . I am extremely driven, with a clear goal to succeed. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Java),front-end development (React, HTML5, CSS3, Javascript,), database(MongoDB,MySQL)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Arv/count.svg)
